@@ -1,7 +1,7 @@
 docker-devdocs
 ==============
 
-DevDocs combines API documentations, selected for http://catchy.io devs, in searchable interface.
+DevDocs combines API documentations, selected for [catchy.io][1] devs, in searchable interface.
 
 Usage
 -----
@@ -27,3 +27,5 @@ It's based on a Makefile, so you'll need the make command.
 ```
 make
 ```
+
+[1]: http://catchy.io "catchy.io"
